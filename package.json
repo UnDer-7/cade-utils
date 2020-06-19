@@ -11,6 +11,10 @@
   "license": "ISC",
   "types": "index.d.ts",
   "devDependencies": {
+    "@types/jest": "^26.0.0",
+    "@types/node": "^14.0.13",
+    "jest": "^26.0.1",
+    "ts-jest": "^26.1.0",
     "typescript": "^3.9.5"
   },
   "publishConfig": {
